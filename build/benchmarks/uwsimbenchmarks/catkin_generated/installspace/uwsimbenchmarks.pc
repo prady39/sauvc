@@ -1,0 +1,8 @@
+prefix=/home/pradnesh/uwsim_ws/install
+
+Name: uwsimbenchmarks
+Description: Description of uwsimbenchmarks
+Version: 0.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_srvs pcl_ros topic_tools uwsim roscpp message_runtime

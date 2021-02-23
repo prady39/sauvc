@@ -1,0 +1,2 @@
+benchmarks/uwsimbenchmarks:pipefollowing:underwater_simulation/underwater_sensor_msgs:underwater_simulation/underwater_vehicle_dynamics:underwater_simulation/uwsim
+-DCATKIN_DEVEL_PREFIX=/home/pradnesh/uwsim_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pradnesh/uwsim_ws/install -G Unix Makefiles
