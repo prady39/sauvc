@@ -1,0 +1,8 @@
+prefix=/home/pradnesh/uwsim_ws/install
+
+Name: pipefollowing
+Description: Description of pipefollowing
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_srvs topic_tools roscpp
